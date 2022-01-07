@@ -122,7 +122,6 @@ public class ATC_Traslados {
                 //Switch to the opened tab
                 driver.switchTo().window(actual);
             }
-
         }
 
         //click ver mapa
